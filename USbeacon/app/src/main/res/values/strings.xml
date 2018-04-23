@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">USbeacon</string>
+    <string name="lottery">抽獎</string>
+    <string name="goin">進入商場</string>
+</resources>
